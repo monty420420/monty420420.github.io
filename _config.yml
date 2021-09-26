@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "default", "plum", "sunrise"
+minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "default", "mint", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "첫 코딩할때의 설레임"
+title                    : "시작이 반이다"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Mun tae yeon"
