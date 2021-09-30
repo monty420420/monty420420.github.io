@@ -283,8 +283,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      show_date: true #날짜넣기
-      read_time: false #true
+      show_date: true #포스팅 날짜 표시
+      read_time: false #true #읽는데 걸리는 소요시간 표시
       comments: # true
       share: true
       related: true
